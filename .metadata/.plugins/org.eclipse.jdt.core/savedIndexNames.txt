@@ -1,0 +1,1 @@
+INDEX VERSION 1.129+E:\SharingPicture\SharingPicture\.metadata\.plugins\org.eclipse.jdt.core
