@@ -18,3 +18,198 @@
 2017-03-07 17:33:49,407 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2017-03-07 17:33:49,411 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-03-07 17:33:49,411 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SharingPicture\SharingPicture\SharingPicture\src\test\resources
+2017-03-07 17:39:35,423 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.kripesh:SharingPicture:0.0.1-SNAPSHOT @ E:\SharingPicture\SharingPicture\SharingPicture\pom.xml.
+2017-03-07 17:39:36,422 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://dreamteam/nexus/content/groups/ims-external/org/springframework/boot/spring-boot-starter-data-jpa/1.3.3.RELEASE/spring-boot-starter-data-jpa-1.3.3.RELEASE.pom
+2017-03-07 17:39:36,900 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://dreamteam/nexus/content/groups/ims-external/org/springframework/boot/spring-boot-starter-data-jpa/1.3.3.RELEASE/spring-boot-starter-data-jpa-1.3.3.RELEASE.pom
+2017-03-07 17:39:37,332 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://dreamteam/nexus/content/groups/ims-external/org/springframework/boot/spring-boot-starters/1.3.3.RELEASE/spring-boot-starters-1.3.3.RELEASE.pom
+2017-03-07 17:39:37,770 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://dreamteam/nexus/content/groups/ims-external/org/springframework/boot/spring-boot-starters/1.3.3.RELEASE/spring-boot-starters-1.3.3.RELEASE.pom
+2017-03-07 17:39:38,152 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://dreamteam/nexus/content/groups/ims-external/org/springframework/boot/spring-boot-parent/1.3.3.RELEASE/spring-boot-parent-1.3.3.RELEASE.pom
+2017-03-07 17:39:39,547 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://dreamteam/nexus/content/groups/ims-external/org/springframework/boot/spring-boot-parent/1.3.3.RELEASE/spring-boot-parent-1.3.3.RELEASE.pom
+2017-03-07 17:39:40,221 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://dreamteam/nexus/content/groups/ims-external/org/springframework/boot/spring-boot-dependencies/1.3.3.RELEASE/spring-boot-dependencies-1.3.3.RELEASE.pom
+2017-03-07 17:39:43,060 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://dreamteam/nexus/content/groups/ims-external/org/springframework/boot/spring-boot-dependencies/1.3.3.RELEASE/spring-boot-dependencies-1.3.3.RELEASE.pom
+2017-03-07 17:39:43,677 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://dreamteam/nexus/content/groups/ims-external/org/springframework/security/spring-security-bom/4.0.3.RELEASE/spring-security-bom-4.0.3.RELEASE.pom
+2017-03-07 17:39:44,440 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://dreamteam/nexus/content/groups/ims-external/org/springframework/security/spring-security-bom/4.0.3.RELEASE/spring-security-bom-4.0.3.RELEASE.pom
+2017-03-07 17:39:44,923 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://dreamteam/nexus/content/groups/ims-external/org/springframework/boot/spring-boot-starter-aop/1.5.2.RELEASE/spring-boot-starter-aop-1.5.2.RELEASE.pom
+2017-03-07 17:39:45,392 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://dreamteam/nexus/content/groups/ims-external/org/springframework/boot/spring-boot-starter-aop/1.5.2.RELEASE/spring-boot-starter-aop-1.5.2.RELEASE.pom
+2017-03-07 17:39:45,837 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://dreamteam/nexus/content/groups/ims-external/org/springframework/boot/spring-boot-starter-jdbc/1.5.2.RELEASE/spring-boot-starter-jdbc-1.5.2.RELEASE.pom
+2017-03-07 17:39:46,316 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://dreamteam/nexus/content/groups/ims-external/org/springframework/boot/spring-boot-starter-jdbc/1.5.2.RELEASE/spring-boot-starter-jdbc-1.5.2.RELEASE.pom
+2017-03-07 17:39:46,753 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://dreamteam/nexus/content/groups/ims-external/org/apache/tomcat/tomcat-jdbc/8.5.11/tomcat-jdbc-8.5.11.pom
+2017-03-07 17:39:47,204 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://dreamteam/nexus/content/groups/ims-external/org/apache/tomcat/tomcat-jdbc/8.5.11/tomcat-jdbc-8.5.11.pom
+2017-03-07 17:39:47,674 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://dreamteam/nexus/content/groups/ims-external/org/apache/tomcat/tomcat-juli/8.5.11/tomcat-juli-8.5.11.pom
+2017-03-07 17:39:48,109 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://dreamteam/nexus/content/groups/ims-external/org/apache/tomcat/tomcat-juli/8.5.11/tomcat-juli-8.5.11.pom
+2017-03-07 17:39:48,495 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://dreamteam/nexus/content/groups/ims-external/org/springframework/spring-jdbc/4.3.7.RELEASE/spring-jdbc-4.3.7.RELEASE.pom
+2017-03-07 17:39:48,971 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://dreamteam/nexus/content/groups/ims-external/org/springframework/spring-jdbc/4.3.7.RELEASE/spring-jdbc-4.3.7.RELEASE.pom
+2017-03-07 17:39:49,416 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://dreamteam/nexus/content/groups/ims-external/org/springframework/spring-tx/4.3.7.RELEASE/spring-tx-4.3.7.RELEASE.pom
+2017-03-07 17:39:49,849 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://dreamteam/nexus/content/groups/ims-external/org/springframework/spring-tx/4.3.7.RELEASE/spring-tx-4.3.7.RELEASE.pom
+2017-03-07 17:39:50,235 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://dreamteam/nexus/content/groups/ims-external/org/hibernate/hibernate-entitymanager/5.0.12.Final/hibernate-entitymanager-5.0.12.Final.pom
+2017-03-07 17:39:50,577 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://dreamteam/nexus/content/groups/ims-external/org/hibernate/hibernate-entitymanager/5.0.12.Final/hibernate-entitymanager-5.0.12.Final.pom
+2017-03-07 17:39:50,953 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://dreamteam/nexus/content/groups/ims-external/org/hibernate/hibernate-core/5.0.12.Final/hibernate-core-5.0.12.Final.pom
+2017-03-07 17:39:51,417 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://dreamteam/nexus/content/groups/ims-external/org/hibernate/hibernate-core/5.0.12.Final/hibernate-core-5.0.12.Final.pom
+2017-03-07 17:39:51,874 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://dreamteam/nexus/content/groups/ims-external/org/apache/geronimo/specs/geronimo-jta_1.1_spec/1.1.1/geronimo-jta_1.1_spec-1.1.1.pom
+2017-03-07 17:39:52,363 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://dreamteam/nexus/content/groups/ims-external/org/apache/geronimo/specs/geronimo-jta_1.1_spec/1.1.1/geronimo-jta_1.1_spec-1.1.1.pom
+2017-03-07 17:39:53,103 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://dreamteam/nexus/content/groups/ims-external/org/jboss/jandex/2.0.0.Final/jandex-2.0.0.Final.pom
+2017-03-07 17:39:53,773 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://dreamteam/nexus/content/groups/ims-external/org/jboss/jandex/2.0.0.Final/jandex-2.0.0.Final.pom
+2017-03-07 17:39:54,129 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://dreamteam/nexus/content/groups/ims-external/org/jboss/jboss-parent/12/jboss-parent-12.pom
+2017-03-07 17:39:55,519 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://dreamteam/nexus/content/groups/ims-external/org/jboss/jboss-parent/12/jboss-parent-12.pom
+2017-03-07 17:39:55,867 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://dreamteam/nexus/content/groups/ims-external/org/hibernate/common/hibernate-commons-annotations/5.0.1.Final/hibernate-commons-annotations-5.0.1.Final.pom
+2017-03-07 17:39:56,301 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://dreamteam/nexus/content/groups/ims-external/org/hibernate/common/hibernate-commons-annotations/5.0.1.Final/hibernate-commons-annotations-5.0.1.Final.pom
+2017-03-07 17:39:56,688 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://dreamteam/nexus/content/groups/ims-external/org/springframework/data/spring-data-jpa/1.11.1.RELEASE/spring-data-jpa-1.11.1.RELEASE.pom
+2017-03-07 17:39:57,737 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://dreamteam/nexus/content/groups/ims-external/org/springframework/data/spring-data-jpa/1.11.1.RELEASE/spring-data-jpa-1.11.1.RELEASE.pom
+2017-03-07 17:39:58,531 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://dreamteam/nexus/content/groups/ims-external/org/springframework/data/build/spring-data-parent/1.9.1.RELEASE/spring-data-parent-1.9.1.RELEASE.pom
+2017-03-07 17:39:59,883 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://dreamteam/nexus/content/groups/ims-external/org/springframework/data/build/spring-data-parent/1.9.1.RELEASE/spring-data-parent-1.9.1.RELEASE.pom
+2017-03-07 17:40:00,272 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://dreamteam/nexus/content/groups/ims-external/org/springframework/data/spring-data-commons/1.13.1.RELEASE/spring-data-commons-1.13.1.RELEASE.pom
+2017-03-07 17:40:00,724 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://dreamteam/nexus/content/groups/ims-external/org/springframework/data/spring-data-commons/1.13.1.RELEASE/spring-data-commons-1.13.1.RELEASE.pom
+2017-03-07 17:40:01,157 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://dreamteam/nexus/content/groups/ims-external/org/springframework/spring-orm/4.3.7.RELEASE/spring-orm-4.3.7.RELEASE.pom
+2017-03-07 17:40:01,579 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://dreamteam/nexus/content/groups/ims-external/org/springframework/spring-orm/4.3.7.RELEASE/spring-orm-4.3.7.RELEASE.pom
+2017-03-07 17:40:01,954 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://dreamteam/nexus/content/groups/ims-external/org/springframework/spring-aspects/4.3.7.RELEASE/spring-aspects-4.3.7.RELEASE.pom
+2017-03-07 17:40:02,653 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://dreamteam/nexus/content/groups/ims-external/org/springframework/spring-aspects/4.3.7.RELEASE/spring-aspects-4.3.7.RELEASE.pom
+2017-03-07 17:40:03,521 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://dreamteam/nexus/content/groups/ims-external/mysql/mysql-connector-java/5.1.41/mysql-connector-java-5.1.41.pom
+2017-03-07 17:40:03,921 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://dreamteam/nexus/content/groups/ims-external/mysql/mysql-connector-java/5.1.41/mysql-connector-java-5.1.41.pom
+2017-03-07 17:40:04,264 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://dreamteam/nexus/content/groups/ims-external/io/jsonwebtoken/jjwt/0.6.0/jjwt-0.6.0.pom
+2017-03-07 17:40:05,207 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://dreamteam/nexus/content/groups/ims-external/io/jsonwebtoken/jjwt/0.6.0/jjwt-0.6.0.pom
+2017-03-07 17:40:05,685 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://dreamteam/nexus/content/groups/ims-external/org/springframework/boot/spring-boot-starter-data-jpa/1.3.3.RELEASE/spring-boot-starter-data-jpa-1.3.3.RELEASE.jar
+2017-03-07 17:40:06,129 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://dreamteam/nexus/content/groups/ims-external/org/springframework/boot/spring-boot-starter-data-jpa/1.3.3.RELEASE/spring-boot-starter-data-jpa-1.3.3.RELEASE.jar
+2017-03-07 17:40:06,517 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://dreamteam/nexus/content/groups/ims-external/org/springframework/boot/spring-boot-starter-aop/1.5.2.RELEASE/spring-boot-starter-aop-1.5.2.RELEASE.jar
+2017-03-07 17:40:06,948 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://dreamteam/nexus/content/groups/ims-external/org/springframework/boot/spring-boot-starter-aop/1.5.2.RELEASE/spring-boot-starter-aop-1.5.2.RELEASE.jar
+2017-03-07 17:40:07,336 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://dreamteam/nexus/content/groups/ims-external/org/springframework/boot/spring-boot-starter-jdbc/1.5.2.RELEASE/spring-boot-starter-jdbc-1.5.2.RELEASE.jar
+2017-03-07 17:40:07,765 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://dreamteam/nexus/content/groups/ims-external/org/springframework/boot/spring-boot-starter-jdbc/1.5.2.RELEASE/spring-boot-starter-jdbc-1.5.2.RELEASE.jar
+2017-03-07 17:40:08,063 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://dreamteam/nexus/content/groups/ims-external/org/apache/tomcat/tomcat-jdbc/8.5.11/tomcat-jdbc-8.5.11.jar
+2017-03-07 17:40:11,863 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://dreamteam/nexus/content/groups/ims-external/org/apache/tomcat/tomcat-jdbc/8.5.11/tomcat-jdbc-8.5.11.jar
+2017-03-07 17:40:12,252 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://dreamteam/nexus/content/groups/ims-external/org/apache/tomcat/tomcat-juli/8.5.11/tomcat-juli-8.5.11.jar
+2017-03-07 17:40:13,504 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://dreamteam/nexus/content/groups/ims-external/org/apache/tomcat/tomcat-juli/8.5.11/tomcat-juli-8.5.11.jar
+2017-03-07 17:40:13,890 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://dreamteam/nexus/content/groups/ims-external/org/springframework/spring-jdbc/4.3.7.RELEASE/spring-jdbc-4.3.7.RELEASE.jar
+2017-03-07 17:40:23,127 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://dreamteam/nexus/content/groups/ims-external/org/springframework/spring-jdbc/4.3.7.RELEASE/spring-jdbc-4.3.7.RELEASE.jar
+2017-03-07 17:40:23,421 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://dreamteam/nexus/content/groups/ims-external/org/hibernate/hibernate-entitymanager/5.0.12.Final/hibernate-entitymanager-5.0.12.Final.jar
+2017-03-07 17:40:30,602 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://dreamteam/nexus/content/groups/ims-external/org/hibernate/hibernate-entitymanager/5.0.12.Final/hibernate-entitymanager-5.0.12.Final.jar
+2017-03-07 17:40:30,919 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://dreamteam/nexus/content/groups/ims-external/org/hibernate/hibernate-core/5.0.12.Final/hibernate-core-5.0.12.Final.jar
+2017-03-07 17:42:30,749 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://dreamteam/nexus/content/groups/ims-external/org/hibernate/hibernate-core/5.0.12.Final/hibernate-core-5.0.12.Final.jar
+2017-03-07 17:42:31,109 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://dreamteam/nexus/content/groups/ims-external/org/jboss/jandex/2.0.0.Final/jandex-2.0.0.Final.jar
+2017-03-07 17:42:36,046 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://dreamteam/nexus/content/groups/ims-external/org/jboss/jandex/2.0.0.Final/jandex-2.0.0.Final.jar
+2017-03-07 17:42:36,336 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://dreamteam/nexus/content/groups/ims-external/org/hibernate/common/hibernate-commons-annotations/5.0.1.Final/hibernate-commons-annotations-5.0.1.Final.jar
+2017-03-07 17:42:38,299 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://dreamteam/nexus/content/groups/ims-external/org/hibernate/common/hibernate-commons-annotations/5.0.1.Final/hibernate-commons-annotations-5.0.1.Final.jar
+2017-03-07 17:42:38,686 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://dreamteam/nexus/content/groups/ims-external/org/apache/geronimo/specs/geronimo-jta_1.1_spec/1.1.1/geronimo-jta_1.1_spec-1.1.1.jar
+2017-03-07 17:42:39,851 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://dreamteam/nexus/content/groups/ims-external/org/apache/geronimo/specs/geronimo-jta_1.1_spec/1.1.1/geronimo-jta_1.1_spec-1.1.1.jar
+2017-03-07 17:42:40,221 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://dreamteam/nexus/content/groups/ims-external/org/springframework/data/spring-data-jpa/1.11.1.RELEASE/spring-data-jpa-1.11.1.RELEASE.jar
+2017-03-07 17:42:47,725 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://dreamteam/nexus/content/groups/ims-external/org/springframework/data/spring-data-jpa/1.11.1.RELEASE/spring-data-jpa-1.11.1.RELEASE.jar
+2017-03-07 17:42:48,108 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://dreamteam/nexus/content/groups/ims-external/org/springframework/data/spring-data-commons/1.13.1.RELEASE/spring-data-commons-1.13.1.RELEASE.jar
+2017-03-07 17:43:04,619 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://dreamteam/nexus/content/groups/ims-external/org/springframework/data/spring-data-commons/1.13.1.RELEASE/spring-data-commons-1.13.1.RELEASE.jar
+2017-03-07 17:43:04,918 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://dreamteam/nexus/content/groups/ims-external/org/springframework/spring-orm/4.3.7.RELEASE/spring-orm-4.3.7.RELEASE.jar
+2017-03-07 17:43:15,799 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://dreamteam/nexus/content/groups/ims-external/org/springframework/spring-orm/4.3.7.RELEASE/spring-orm-4.3.7.RELEASE.jar
+2017-03-07 17:43:16,165 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://dreamteam/nexus/content/groups/ims-external/org/springframework/spring-tx/4.3.7.RELEASE/spring-tx-4.3.7.RELEASE.jar
+2017-03-07 17:43:22,747 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://dreamteam/nexus/content/groups/ims-external/org/springframework/spring-tx/4.3.7.RELEASE/spring-tx-4.3.7.RELEASE.jar
+2017-03-07 17:43:23,048 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://dreamteam/nexus/content/groups/ims-external/org/springframework/spring-aspects/4.3.7.RELEASE/spring-aspects-4.3.7.RELEASE.jar
+2017-03-07 17:43:25,303 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://dreamteam/nexus/content/groups/ims-external/org/springframework/spring-aspects/4.3.7.RELEASE/spring-aspects-4.3.7.RELEASE.jar
+2017-03-07 17:43:25,688 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://dreamteam/nexus/content/groups/ims-external/mysql/mysql-connector-java/5.1.41/mysql-connector-java-5.1.41.jar
+2017-03-07 17:43:47,936 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://dreamteam/nexus/content/groups/ims-external/mysql/mysql-connector-java/5.1.41/mysql-connector-java-5.1.41.jar
+2017-03-07 17:43:48,319 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://dreamteam/nexus/content/groups/ims-external/io/jsonwebtoken/jjwt/0.6.0/jjwt-0.6.0.jar
+2017-03-07 17:43:50,287 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://dreamteam/nexus/content/groups/ims-external/io/jsonwebtoken/jjwt/0.6.0/jjwt-0.6.0.jar
+2017-03-07 17:43:55,284 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-07 17:43:55,286 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-07 17:43:55,286 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-07 17:43:55,289 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-07 17:43:55,289 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SharingPicture\SharingPicture\SharingPicture\src\test\resources
+2017-03-07 17:44:00,683 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-07 17:44:00,686 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-07 17:44:00,703 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-07 17:44:00,706 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-07 17:44:00,706 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SharingPicture\SharingPicture\SharingPicture\src\test\resources
+2017-03-07 17:46:17,722 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-07 17:46:17,723 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-07 17:46:17,724 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-07 17:46:17,726 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-07 17:46:17,726 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SharingPicture\SharingPicture\SharingPicture\src\test\resources
+2017-03-07 17:46:26,034 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-07 17:46:26,035 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-07 17:46:26,036 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-07 17:46:26,038 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-07 17:46:26,038 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SharingPicture\SharingPicture\SharingPicture\src\test\resources
+2017-03-07 17:47:55,627 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-07 17:47:55,627 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-07 17:47:55,628 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-07 17:47:55,631 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-07 17:47:55,631 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SharingPicture\SharingPicture\SharingPicture\src\test\resources
+2017-03-07 17:48:39,686 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-07 17:48:39,687 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-07 17:48:39,688 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-07 17:48:39,691 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-07 17:48:39,691 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SharingPicture\SharingPicture\SharingPicture\src\test\resources
+2017-03-07 17:49:01,957 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-07 17:49:01,958 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-07 17:49:01,959 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-07 17:49:01,961 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-07 17:49:01,961 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SharingPicture\SharingPicture\SharingPicture\src\test\resources
+2017-03-07 17:49:12,523 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-07 17:49:12,524 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-07 17:49:12,525 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-07 17:49:12,530 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-07 17:49:12,531 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SharingPicture\SharingPicture\SharingPicture\src\test\resources
+2017-03-07 17:50:03,853 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-07 17:50:03,854 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-07 17:50:03,855 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-07 17:50:03,857 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-07 17:50:03,857 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SharingPicture\SharingPicture\SharingPicture\src\test\resources
+2017-03-07 17:50:22,111 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-07 17:50:22,111 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-07 17:50:22,112 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-07 17:50:22,114 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-07 17:50:22,115 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SharingPicture\SharingPicture\SharingPicture\src\test\resources
+2017-03-07 17:50:31,046 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-07 17:50:31,047 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-07 17:50:31,048 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-07 17:50:31,050 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-07 17:50:31,050 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SharingPicture\SharingPicture\SharingPicture\src\test\resources
+2017-03-07 17:50:59,542 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-07 17:50:59,543 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-07 17:50:59,544 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-07 17:50:59,547 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-07 17:50:59,548 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SharingPicture\SharingPicture\SharingPicture\src\test\resources
+2017-03-07 17:51:12,558 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-07 17:51:12,559 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-07 17:51:12,560 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-07 17:51:12,562 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-07 17:51:12,562 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SharingPicture\SharingPicture\SharingPicture\src\test\resources
+2017-03-07 17:51:26,998 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-07 17:51:26,998 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-07 17:51:26,999 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-07 17:51:27,001 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-07 17:51:27,002 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SharingPicture\SharingPicture\SharingPicture\src\test\resources
+2017-03-07 17:52:33,816 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-07 17:52:33,817 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-07 17:52:33,818 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-07 17:52:33,822 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-07 17:52:33,822 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SharingPicture\SharingPicture\SharingPicture\src\test\resources
+2017-03-07 17:52:56,684 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-07 17:52:56,684 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-07 17:52:56,685 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-07 17:52:56,688 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-07 17:52:56,688 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SharingPicture\SharingPicture\SharingPicture\src\test\resources
+2017-03-07 17:53:43,070 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-07 17:53:43,071 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-07 17:53:43,072 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-07 17:53:43,075 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-07 17:53:43,075 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SharingPicture\SharingPicture\SharingPicture\src\test\resources
+2017-03-07 17:54:09,856 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-07 17:54:09,860 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-07 17:54:09,864 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-07 17:54:09,866 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-07 17:54:09,867 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SharingPicture\SharingPicture\SharingPicture\src\test\resources
+2017-03-07 17:54:22,680 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-07 17:54:22,681 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-07 17:54:22,682 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-07 17:54:22,688 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-07 17:54:22,688 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SharingPicture\SharingPicture\SharingPicture\src\test\resources
+2017-03-07 17:54:34,227 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-07 17:54:34,228 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-07 17:54:34,229 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-07 17:54:34,231 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-07 17:54:34,231 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SharingPicture\SharingPicture\SharingPicture\src\test\resources
+2017-03-07 17:54:52,681 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-07 17:54:52,682 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-07 17:54:52,682 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-07 17:54:52,684 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-07 17:54:52,685 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SharingPicture\SharingPicture\SharingPicture\src\test\resources
+2017-03-07 17:55:57,725 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-07 17:55:57,729 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-07 17:55:57,730 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-07 17:55:57,732 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-07 17:55:57,732 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SharingPicture\SharingPicture\SharingPicture\src\test\resources
