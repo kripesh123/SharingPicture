@@ -20,11 +20,11 @@ public class UserController {
 	@Autowired
 	private UserService userService;
 
-	/*public String login() {
+	public String login() {
 		return "";
-	}*/
+	}
 
-	@RequestMapping(value = USER_REGISTER_PATH, method = RequestMethod.POST)
+	@RequestMapping(value = "/register", method = RequestMethod.POST)
 	public User registerUser(@RequestBody User user) {
 		return userService.save(user);
 	}

@@ -1,0 +1,5 @@
+package com.kripesh.controller.util;
+
+public class ApiConstants {
+
+}
