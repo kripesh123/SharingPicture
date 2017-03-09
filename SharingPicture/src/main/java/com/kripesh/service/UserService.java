@@ -6,7 +6,7 @@ import com.kripesh.model.User;
 
 public interface UserService {
 
-	List<User> findAll();
+	List<User> findAllUsers();
 
 	User findByUserName(String userName);
 
