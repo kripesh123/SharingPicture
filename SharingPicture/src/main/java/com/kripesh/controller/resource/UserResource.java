@@ -1,4 +1,4 @@
-package com.kripesh.controller;
+package com.kripesh.controller.resource;
 
 import java.util.List;
 
@@ -17,6 +17,6 @@ public class UserResource {
 	
 	@RequestMapping("/user/users")
 	public List<User> findAllUsers(){
-		return userService.findAllUsers();
+		return userService.findAll();
 	}
 }

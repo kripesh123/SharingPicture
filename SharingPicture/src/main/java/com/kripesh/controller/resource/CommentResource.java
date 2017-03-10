@@ -1,4 +1,4 @@
-package com.kripesh.controller;
+package com.kripesh.controller.resource;
 
 public class CommentResource {
 
