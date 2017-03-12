@@ -11,7 +11,7 @@ import com.kripesh.model.User;
 @Repository
 public interface PhotoDao extends CrudRepository<Photo, Long>{
 
-	List<Photo> findAll();
+	List<Photo> findAllByOrderByPhotoIdDesc();
 	
 	List<Photo> findByUser(User user);
 	

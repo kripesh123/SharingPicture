@@ -17,7 +17,7 @@ public class PhotoServiceImpl implements PhotoService {
 	private PhotoDao photoDao;
 	@Override
 	public List<Photo> findAll() {
-		return photoDao.findAll();
+		return photoDao.findAllByOrderByPhotoIdDesc();
 	}
 
 	@Override
